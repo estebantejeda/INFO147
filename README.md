@@ -7,4 +7,4 @@ Integrantes:
  
 
 Tareas:
-  * [1. Explorando datos mundiales de COVID-19](https://github.com/clfak/INFO147/blob/main/unidad1/info147_tarea1.ipynb)
+  * [Explorando datos mundiales de COVID-19](https://github.com/clfak/INFO147/blob/main/unidad1/info147_tarea1.ipynb)
